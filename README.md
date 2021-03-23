@@ -1,8 +1,9 @@
 # InheritanceCraft
 All rights to Minecraft are reserved by Mojang, and all rights to the Inheritance Cycle are reserved by Christopher Paolini, and/or his publishing company, and/or something else. I don't know. I'll figure that out when I have to.
+
 InheritanceCraft is a Minecraft mod that will add the magic system from the Inheritance cycle to the game, potentially alongside other features of the books.
 If I get something wrong in the mod, feel free to inform me, unless it is one of the following:
-  1. Something that happens past like page 270 of Brisingr.
+  1. Something that happens past like page 350 of Brisingr.
 
 The above list contains what it does because the mod does not exist yet, and I technically have yet to finish the series, and it may change to include things that are wrong within the mod due to my lack of ability, lack of knowledge, an opinion of mine, or that I've yet to get around to whatever the issue is.
 
