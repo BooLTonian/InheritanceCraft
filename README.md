@@ -88,3 +88,19 @@ Blocks:
 Brightsteel block
 
 Brightsteel Meteor Fragment
+
+-------------------------------------------------------
+
+Although it is not uploaded there is in fact some work done on this mod. I just have no idea how to use git, and make it show up here.
+
+-------------------------------------------------------
+
+What's currently implemented:
+
+Find someone to make models for me.
+
+Brightsteel tools (they don't work lol)
+
+Seithr Oil (doesn't work yet lol)
+
+A class-object that can manage "mana"(originally, magic was the only major goal, not all the other stuff)
