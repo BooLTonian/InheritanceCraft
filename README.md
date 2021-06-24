@@ -8,6 +8,7 @@ InheritanceCraft is a Minecraft mod that will add a variety of elements from the
 -------------------------------------------------------
 
 Current plan of action:
+
 Develop a more complete list of things from the book, then add them to the game. (Dwarfs, Elves, Urgals, and Werecats, due to their civilized nature are likely not to be added.)
 
 -------------------------------------------------------
