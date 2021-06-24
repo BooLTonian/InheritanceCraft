@@ -11,12 +11,12 @@ Entities:
 Dragons
 Lethrblaka/Ra'zac
 Fanghur
-Feld^unost
+Feldûnost
 Shrrg
 Urzhad
 Nagra
-N'i'dhwal
-Snalgl`i
+Nïdhwal
+Snalglí
 Sundavrblaka
 
 Items:
@@ -26,17 +26,17 @@ Tunivor's Nectar=
 Fairth
 Brightsteel (oreDict to mithril?)
 Brightsteel tools and weapons
-H^uthv`ir
+Hûthvír
 Faelnirv
 Dragon saddles
 Gem carrying amenities(belt, staff, etc.)
 
 Tile entities:
-Eldunar`i
+Eldunarí
 Lethrblaka Egg
 Dragon egg
 Delois
-Fricai Andl`at
+Fricai Andlát
 Loivissa
 Talos
 Vaer Ethilnadras
